@@ -1,4 +1,4 @@
-# SpringBootEmpCRUD
+# HibernateEmpCRUD
 Employee Management System manages Employee database using Hibernate, ORM tool. Project is developed by performing all CRUD, search operations on database.
 
 hibernate.cfg.xml
